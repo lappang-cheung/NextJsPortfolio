@@ -199,7 +199,7 @@ p {
     .gallery a img:hover {
       opacity: .3; }
 
-@media screen and (min-width: 1600px) {
+@media only screen and (min-width: 1600px) {
   #intro {
     padding-top: 9rem; }
   .large-heading {
@@ -224,7 +224,7 @@ p {
     padding: 3rem;
     margin: 4px; } }
 
-@media screen and (min-width: 1025px) and (max-width: 1600px) {
+@media only screen and (min-width: 1025px) and (max-width: 1600px) {
   #intro {
     padding-top: 2rem; }
   .large-heading {
@@ -252,9 +252,21 @@ p {
     font-size: .7rem; }
   .information h3 {
     font-size: .8rem;
-    font-weight: 500; } }
+    font-weight: 500; }
+  .sections {
+    grid-template-columns: repeat(3, 1fr) !important; }
+  .sections:not(:last-child) {
+    padding: 1rem; }
+  .section-left {
+    grid-column: 1/2 !important;
+    padding: 0; }
+  .section-right {
+    grid-column: 2/ -1 !important;
+    padding: 0; }
+  #intro {
+    padding-top: 0 !important; } }
 
-@media screen and (max-width: 1024px) {
+@media only screen and (max-width: 1024px) {
   .name {
     font-size: 4rem; }
   .job {
@@ -285,7 +297,7 @@ p {
     font-size: .8rem;
     font-weight: 500; } }
 
-@media screen and (max-width: 900px) {
+@media only screen and (max-width: 900px) {
   .logo {
     padding: 4px 0 0 0; }
   .nav-wrapper {
@@ -351,19 +363,7 @@ p {
       margin-top: 4px;
       opacity: 1; }
     .nav-btn i:nth-child(3) {
-      margin-top: 4px; }
-  .sections {
-    grid-template-columns: repeat(3, 1fr) !important; }
-  .sections:not(:last-child) {
-    padding: 1rem; }
-  .section-left {
-    grid-column: 1/2 !important;
-    padding: 0; }
-  .section-right {
-    grid-column: 2/ -1 !important;
-    padding: 0; }
-  #intro {
-    padding-top: 0 !important; } }
+      margin-top: 4px; } }
 
 @media screen and (max-width: 500px) {
   .logo {
