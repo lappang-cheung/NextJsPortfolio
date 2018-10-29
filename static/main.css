@@ -295,7 +295,19 @@ p {
     font-size: .7rem; }
   .information h3 {
     font-size: .8rem;
-    font-weight: 500; } }
+    font-weight: 500; }
+  .sections {
+    grid-template-columns: repeat(2, 1fr) !important; }
+  .sections:not(:last-child) {
+    padding: 1rem; }
+  .section-left {
+    grid-column: 1/2 !important;
+    padding: 0; }
+  .section-right {
+    grid-column: 2/ -1 !important;
+    padding: 0; }
+  #intro {
+    padding-top: 0 !important; } }
 
 @media only screen and (max-width: 900px) {
   .logo {
