@@ -81,7 +81,7 @@ var Contact = function Contact() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "https://www.google.ca/maps/place/Aurora+GO/@43.9993742,-79.4594247,17z/data=!4m5!3m4!1s0x882ad3e588a51dd9:0xcd3bf60dd6ad3763!8m2!3d44.000748!4d-79.4597197",
+    href: "https://www.google.ca/maps/place/Aurora,+ON/@43.9962057,-79.4639734,14z/data=!3m1!4b1!4m5!3m4!1s0x882ad392943890c7:0x5037b28c7231a30!8m2!3d44.00648!4d-79.450396",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
