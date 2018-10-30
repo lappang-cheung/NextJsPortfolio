@@ -297,15 +297,22 @@ p {
     font-size: .8rem;
     font-weight: 500; }
   .sections {
-    grid-template-columns: repeat(2, 1fr) !important; }
+    display: block; }
   .sections:not(:last-child) {
     padding: 1rem; }
   .section-left {
-    grid-column: 1/2 !important;
-    padding: 0; }
+    display: block; }
+    .section-left .large-heading {
+      text-align: center; }
+    .section-left .small-heading {
+      text-align: center; }
   .section-right {
-    grid-column: 2/ -1 !important;
-    padding: 0; }
+    display: block;
+    padding: 1rem 7rem !important; }
+  .information .location, .information .email, .information .web {
+    display: block !important;
+    text-align: center;
+    background-color: transparent !important; }
   #intro {
     padding-top: 0 !important; } }
 
@@ -402,7 +409,6 @@ p {
   .information {
     display: block !important; }
     .information .location, .information .email, .information .web {
-      text-align: center;
       margin: 10px; }
     .information h3 {
       font-size: 1rem; }
