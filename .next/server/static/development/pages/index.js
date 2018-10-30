@@ -195,7 +195,7 @@ var Contact = function Contact() {
       lineNumber: 14
     },
     __self: this
-  }), " Aurora, Ontario")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), " Aurora, On")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "email",
     __source: {
       fileName: _jsxFileName,
@@ -235,7 +235,7 @@ var Contact = function Contact() {
       lineNumber: 18
     },
     __self: this
-  }), " lappangcheung")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), " leocheung")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "web",
     __source: {
       fileName: _jsxFileName,
