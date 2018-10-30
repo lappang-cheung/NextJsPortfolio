@@ -25,7 +25,7 @@ const Experience = () => {
                             <div className="content">
                                 <h3>Jr Rail Developer</h3>
                                 <p className="info">Contact</p>
-                                <p> Had worked on a small project while I was developing my developer skills and still in the infrastructure support team.
+                                <p> Had worked on a small project while I was developing my developer skills and was still in the infrastructure support team.
                                     Met a client through a hackathon event to create proof of concept on job recruiting agency.
                                 </p>    
                                 <p>Technology: Rails 4, Heroku, Dropbox, AWS EC2, Sass, Postgresql</p>

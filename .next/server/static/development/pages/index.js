@@ -432,7 +432,7 @@ var Experience = function Experience() {
       lineNumber: 28
     },
     __self: this
-  }, " Had worked on a small project while I was developing my developer skills and still in the infrastructure support team. Met a client through a hackathon event to create proof of concept on job recruiting agency."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, " Had worked on a small project while I was developing my developer skills and was still in the infrastructure support team. Met a client through a hackathon event to create proof of concept on job recruiting agency."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
