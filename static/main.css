@@ -301,7 +301,8 @@ p {
   .sections:not(:last-child) {
     padding: 1rem; }
   .section-left {
-    display: block; }
+    display: block;
+    padding: 0 !important; }
     .section-left .large-heading {
       text-align: center; }
     .section-left .small-heading {
@@ -453,4 +454,3 @@ header {
     background: #f8f8ff; }
   .information a {
     text-decoration: none;
-    color: #a6a7aa; }
