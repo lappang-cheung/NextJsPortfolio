@@ -5,7 +5,7 @@ const Hero = () => {
         <section id="home" className="home">
             <span className="hero">
                 <h1 className="name">Leo<br/>Cheung</h1>
-                <h4 className="job">JavaScript &amp; Front-End Developer</h4>
+                <h4 className="job">JavaScript &amp; Web Developer</h4>
                 <hr />
                 <span className="social">
                     <span><Link href="https://github.com/lappang-cheung"><a target="_blank"><i className="fa fa-github" aria-hidden="true"></i></a></Link></span>

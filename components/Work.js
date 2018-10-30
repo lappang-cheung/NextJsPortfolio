@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 const Work = () => {
     return(
         <section id="work" className="sections">
@@ -7,33 +9,18 @@ const Work = () => {
             </span>
             <span className="section-right">
                 <div className="gallery">
-                    <a href="#">
-                        <img src="static/images/1.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/2.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/3.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/4.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/5.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/6.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/7.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/8.jpg" alt=""/>
-                    </a>
-                    <a href="#">
-                        <img src="static/images/9.jpg" alt=""/>
-                    </a>
+                    <Link href="https://polar-ridge-58141.herokuapp.com"><a target="_blank">
+                        <img src="static/images/portfolio.png" alt="portfolio"/>
+                    </a></Link>
+                    <Link href="https://nameless-beach-21204.herokuapp.com"><a target="_blank">
+                        <img src="static/images/podcastfm.png" alt="podcast"/>
+                    </a></Link>
+                    <Link href="https://polar-ridge-58141.herokuapp.com"><a target="_blank">
+                        <img src="static/images/devit.png" alt="devit"/>
+                    </a></Link>
+                    <Link href="https://expensifyreactredux.herokuapp.com/"><a target="_blank">
+                        <img src="static/images/expensify.png" alt="expensify"/>
+                    </a></Link>
                 </div>
             </span>
         </section>
