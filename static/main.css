@@ -312,8 +312,7 @@ p {
     padding: 1rem 7rem !important; }
   .information .location, .information .email, .information .web {
     display: block !important;
-    text-align: center;
-    background-color: transparent !important; }
+    text-align: center; }
   #intro {
     padding-top: 0 !important; } }
 
@@ -445,6 +444,9 @@ header {
 .container {
   padding: 6rem 0 0 0; }
 
+.sections .section-right {
+  padding: 1rem 2rem !important; }
+
 .information {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -454,3 +456,4 @@ header {
     background: #f8f8ff; }
   .information a {
     text-decoration: none;
+    color: #a6a7aa; }
