@@ -325,162 +325,225 @@ var Experience = function Experience() {
       lineNumber: 26
     },
     __self: this
-  }, "Jr Rail Developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Admin Assistant"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "info",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
     },
     __self: this
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "University of Toronto (Work-Study)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
     },
     __self: this
-  }, " Had worked on a small project while I was developing my developer skills and was still in the infrastructure support team. Met a client through a hackathon event to create proof of concept on job recruiting agency."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "I had worked as one of the administrative assistant in the Religion department and worked under for both the Undergraduates and the Master/PhD coordinator. My task included filing, scheduling and data entry.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 29
     },
     __self: this
-  }, "Technology: Rails 4, Heroku, Dropbox, AWS EC2, Sass, Postgresql")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    },
+    __self: this
+  }), "I made a small contribution for the fall/winter semester for the current students of the upcoming year, as I had the responsibility of scheduling the classes for the professors & teaching assistant and made sure each course was prepared in full detail high level plan. Also including the correct enrollments of students and the prerequisite into the courses"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  }, "Technology: Microsoft Office")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "time",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 33
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34
     },
     __self: this
-  }, "May 2016 - Jun 2016"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 35
+    },
+    __self: this
+  }, "Mar 2012 - Sep 2012"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 39
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 40
     },
     __self: this
   }, "Application Support Developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "info",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 41
     },
     __self: this
   }, "SunLife Financial"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 42
     },
     __self: this
   }, "Collaboration with multiple internal business clients to coordinate the deployments and load testing of business applications in the ESB infrastructure.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 44
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 44
     },
     __self: this
   }), "My responsibilities include the scheduling and maintenance of all the ESB applications in the VM & physical Windows R12 servers. Yearly infrastructure & mainframe automation scripting updates, disaster recovery and bi-yearly onboarding training for offshore support"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 48
     },
     __self: this
   }, "Technology: ESB Websuite, Windows R12, SQL, DB2, Java, Mainframe")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "time",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 50
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 51
     },
     __self: this
   }, "Apr 2014 - Apr 2017"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53
+      lineNumber: 54
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 54
+      lineNumber: 55
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 56
+    },
+    __self: this
+  }, "Jr Rail Developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "info",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57
+    },
+    __self: this
+  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 58
+    },
+    __self: this
+  }, " Had worked on a small project while I was developing my developer skills and was still in the infrastructure support team. Met a client through a hackathon event to create proof of concept on job recruiting agency."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  }, "Technology: Rails 4, Heroku, Dropbox, AWS EC2, Sass, Postgresql")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "time",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 63
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 64
+    },
+    __self: this
+  }, "May 2016 - Jun 2016"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 67
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "content",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 68
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 69
     },
     __self: this
   }, "Jr Web Developer"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "info",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 70
     },
     __self: this
   }, "SunLife Financial"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 71
     },
     __self: this
   }, "Collaboration with the business marketing to bring new features and promote new products in the corporate websites. My team used Agile Scrum methodology for fast prototyping of the products and better client deliverables. ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 72
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58
+      lineNumber: 72
     },
     __self: this
   }), "My contributions to different projects include: SEO, Web Accessibility, Browser caching and implementation of 3rd party tools & RESTful API from Adobe."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62
+      lineNumber: 76
     },
     __self: this
   }, "Technology: AIX, OpenTxt WEM, Java Server Pages, HTML5, CSS3, JavaScript, Dimensions")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "time",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 64
+      lineNumber: 78
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 79
     },
     __self: this
   }, "Apr 2017 - Feb 2018"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -489,7 +552,7 @@ var Experience = function Experience() {
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 68
+      lineNumber: 82
     },
     __self: this
   })))));

@@ -23,15 +23,16 @@ const Experience = () => {
                         </li>
                         <li>
                             <div className="content">
-                                <h3>Jr Rail Developer</h3>
-                                <p className="info">Contact</p>
-                                <p> Had worked on a small project while I was developing my developer skills and was still in the infrastructure support team.
-                                    Met a client through a hackathon event to create proof of concept on job recruiting agency.
-                                </p>    
-                                <p>Technology: Rails 4, Heroku, Dropbox, AWS EC2, Sass, Postgresql</p>
+                                <h3>Admin Assistant</h3>
+                                <p className="info">University of Toronto (Work-Study)</p>
+                                <p>I had worked as one of the administrative assistant in the Religion department and worked under for both the Undergraduates and the Master/PhD coordinator. My task included filing, scheduling and data entry.
+                                    <br /><br/>
+                                    I made a small contribution for the fall/winter semester for the current students of the upcoming year, as I had the responsibility of scheduling the classes for the professors &amp; teaching assistant 
+                                    and made sure each course was prepared in full detail high level plan. Also including the correct enrollments of students and the prerequisite into the courses</p>
+                                <p>Technology: Microsoft Office</p>
                             </div>
                             <div className="time">
-                                <h4>May 2016 - Jun 2016</h4>
+                                <h4>Mar 2012 - Sep 2012</h4>
                             </div>
                         </li>
                         <li>
@@ -48,6 +49,19 @@ const Experience = () => {
                             </div>
                             <div className="time">
                                 <h4>Apr 2014 - Apr 2017</h4>
+                            </div>
+                        </li>
+                        <li>
+                            <div className="content">
+                                <h3>Jr Rail Developer</h3>
+                                <p className="info">Contact</p>
+                                <p> Had worked on a small project while I was developing my developer skills and was still in the infrastructure support team.
+                                    Met a client through a hackathon event to create proof of concept on job recruiting agency.
+                                </p>    
+                                <p>Technology: Rails 4, Heroku, Dropbox, AWS EC2, Sass, Postgresql</p>
+                            </div>
+                            <div className="time">
+                                <h4>May 2016 - Jun 2016</h4>
                             </div>
                         </li>
                         <li>
